@@ -2,7 +2,7 @@ version: '3.8'
 
 # Services
 services:
-  # Server service
+  # Server servic
   server:
     build:
       context: ./server
